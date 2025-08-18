@@ -1,0 +1,8 @@
+radio_dir: 
+label_file: group.csv
+intra_mask_id: 1
+task_column: label
+dataset_column: group
+pvalue: 0.05
+extractor_settings: config.yaml
+ml_models: [SVM, RandomForest, ExtraTrees, XGBoost, LightGBM, nb, AdaBoost, GradientBoost]

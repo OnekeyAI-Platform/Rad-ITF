@@ -1,0 +1,11 @@
+Step1.Converted images to .nii.gz format
+
+Step2.Resampling method: linear interpolation to 1 × 1 × 1 mm3 voxel size
+
+Step3.Standardization: 
+
+(1). Portal venous phase (PVP): window level = 80, window width = 200; 
+
+(2). Arterial phase (AP): window level = 50, window width = 350
+
+Toolkit: https://pan.baidu.com/s/18IlaB7ORkSC3FtrX8evhZA?pwd=onek
